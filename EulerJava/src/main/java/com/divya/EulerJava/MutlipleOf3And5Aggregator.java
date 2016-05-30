@@ -2,6 +2,7 @@ package com.divya.EulerJava;
 
 public class MutlipleOf3And5Aggregator {
 
+	//Just a comment
 	public int get3And5MultipleSumForRange(int rangeStart, int rangeEnd) {
 		int sum=0;
 		for (int currentNumber = rangeStart; currentNumber <= rangeEnd; currentNumber++) {
